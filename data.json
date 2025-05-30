@@ -1,0 +1,7 @@
+{
+    "name" : "Elias",
+    "age" : 25,
+    "isStudent" : true,
+    "languages" : ["JavaScript", "Python", "Java"]
+
+}
